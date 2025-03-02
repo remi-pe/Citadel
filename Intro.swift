@@ -1,0 +1,9 @@
+class Intro: SKScene {
+    // ... existing code ...
+
+    // Update any transitions from IntroScene to GameScene
+    let newScene = Player_1(size: self.size)
+    // ... existing transition code ...
+
+    // ... existing code ...
+} 

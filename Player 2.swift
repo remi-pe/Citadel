@@ -1,0 +1,3 @@
+class Player_2: SKScene {
+    // ... existing code ...
+} 
